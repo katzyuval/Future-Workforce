@@ -1,0 +1,395 @@
+﻿Occupation,Probability,A_MEAN,EMPLOYEES,EDUCATION
+Recreational Therapists,0.0028,50640,18840,Bachelor's degree
+Mental Health and Substance Abuse Social Workers,0.0031,49630,116750,Master's degree
+Occupational Therapists,0.0035,85350,126900,Master's degree
+Orthotists and Prosthetists,0.0035,73860,8830,Master's degree
+Healthcare Social Workers,0.0035,58470,168190,Master's degree
+Oral and Maxillofacial Surgeons,0.0036,242370,4830,Doctoral or professional degree
+Choreographers,0.004,53560,5090,High school diploma or equivalent
+"Psychologists, All Other",0.0043,95610,13480,Master's degree
+First-Line Supervisors of Police and Detectives,0.0044,93100,116660,High school diploma or equivalent
+"Dentists, General",0.0044,175840,113000,Doctoral or professional degree
+"Medical Scientists, Except Epidemiologists",0.0045,96420,120320,Doctoral or professional degree
+"Clinical, Counseling, and School Psychologists",0.0047,85340,110490,Doctoral or professional degree
+Fabric and Apparel Patternmakers,0.0049,49180,5220,High school diploma or equivalent
+Set and Exhibit Designers,0.0055,61020,10590,Bachelor's degree
+Recreation Workers,0.0061,28310,353570,High school diploma or equivalent
+Speech-Language Pathologists,0.0064,80700,146900,Master's degree
+Computer Systems Analysts,0.0065,93610,587970,Bachelor's degree
+Curators,0.0068,58490,12280,Master's degree
+"Preschool Teachers, Except Special Education",0.0074,34410,424520,Associate's degree
+Anthropologists and Archeologists,0.0077,65310,6020,Master's degree
+Foresters,0.0081,63150,8410,Bachelor's degree
+"Educational, Guidance, School, and Vocational Counselors",0.0085,60160,285460,Master's degree
+Rehabilitation Counselors,0.0094,39930,106860,Master's degree
+Forensic Science Technicians,0.0095,62490,15970,Bachelor's degree
+"Makeup Artists, Theatrical and Performance",0.01,72030,3140,Postsecondary nondegree award
+"Education Administrators, Postsecondary",0.01,111210,143430,Master's degree
+Microbiologists,0.012,81150,20030,Bachelor's degree
+Industrial-Organizational Psychologists,0.012,109030,780,Master's degree
+Sales Managers,0.013,140320,379050,Bachelor's degree
+Hydrologists,0.014,82790,6290,Bachelor's degree
+Marketing Managers,0.014,147240,240440,Bachelor's degree
+Marriage and Family Therapists,0.014,54150,48520,Master's degree
+"Engineers, All Other",0.014,99410,142030,Bachelor's degree
+"Biological Scientists, All Other",0.015,83600,42640,Bachelor's degree
+Multimedia Artists and Animators,0.015,78230,28560,Bachelor's degree
+"Education Administrators, Preschool and Childcare Center/Program",0.015,53990,50650,Bachelor's degree
+Music Directors and Composers,0.015,59790,12160,Bachelor's degree
+Conservation Scientists,0.016,65320,22200,Bachelor's degree
+"Architects, Except Landscape and Naval",0.018,88860,104360,Bachelor's degree
+Physical Therapist Assistants,0.018,57750,94250,Associate's degree
+"Health Diagnosing and Treating Practitioners, All Other",0.02,85600,36680,Master's degree
+Soil and Plant Scientists,0.021,70630,15010,Bachelor's degree
+Materials Scientists,0.021,102450,7730,Bachelor's degree
+Fashion Designers,0.021,87610,19750,Bachelor's degree
+Physical Therapists,0.021,88880,228600,Doctoral or professional degree
+Producers and Directors,0.022,89840,118630,Bachelor's degree
+Interior Designers,0.022,59120,57070,Bachelor's degree
+Orthodontists,0.023,225760,5350,Doctoral or professional degree
+Art Directors,0.023,104590,40210,Bachelor's degree
+First-Line Supervisors of Correctional Officers,0.025,68350,43760,High school diploma or equivalent
+"Electronics Engineers, Except Computer",0.025,107930,134110,Bachelor's degree
+Biochemists and Biophysicists,0.027,105940,28500,Doctoral or professional degree
+Occupational Therapy Assistants,0.028,60410,42660,Associate's degree
+"Child, Family, and School Social Workers",0.028,49760,320170,Bachelor's degree
+"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.028,93630,26230,Bachelor's degree
+Industrial Engineers,0.029,91630,279550,Bachelor's degree
+Veterinary Technologists and Technicians,0.029,35560,106680,Associate's degree
+Industrial Engineering Technicians,0.03,58860,66540,Associate's degree
+Network and Computer Systems Administrators,0.03,87070,366250,Bachelor's degree
+Database Administrators,0.03,92030,110090,Bachelor's degree
+"Environmental Scientists and Specialists, Including Health",0.033,77580,80480,Bachelor's degree
+Lawyers,0.035,144230,642750,Doctoral or professional degree
+Craft Artists,0.035,40490,3980,No formal educational credential
+Commercial and Industrial Designers,0.037,71430,33200,Bachelor's degree
+Writers and Authors,0.038,73090,45210,Bachelor's degree
+Political Scientists,0.039,115300,5660,Master's degree
+Credit Counselors,0.04,49820,35740,Bachelor's degree
+"Social Scientists and Related Workers, All Other",0.04,85750,35530,Bachelor's degree
+Astronomers,0.041,111090,2160,Doctoral or professional degree
+"Software Developers, Applications",0.042,108080,903160,Bachelor's degree
+"Fine Artists, Including Painters, Sculptors, and Illustrators",0.042,58370,11620,Bachelor's degree
+Psychiatric Technicians,0.043,37760,71360,Postsecondary nondegree award
+Landscape Architects,0.045,73160,18660,Bachelor's degree
+Health Educators,0.045,59660,58780,Bachelor's degree
+Floral Designers,0.047,28900,43360,High school diploma or equivalent
+Forest Fire Inspectors and Prevention Specialists,0.048,49610,2130,High school diploma or equivalent
+Editors,0.055,69480,95750,Bachelor's degree
+Prosthodontists,0.055,191400,380,Doctoral or professional degree
+"Healthcare Practitioners and Technical Workers, All Other",0.055,63340,32680,Postsecondary nondegree award
+"Arbitrators, Mediators, and Conciliators",0.06,72760,6240,Bachelor's degree
+Animal Scientists,0.061,67690,2530,Bachelor's degree
+Respiratory Therapists,0.066,62500,129600,Associate's degree
+Broadcast News Analysts,0.067,91990,5890,Bachelor's degree
+First-Line Supervisors of Non-Retail Sales Workers,0.075,84600,247570,High school diploma or equivalent
+Food Scientists and Technologists,0.077,72570,13330,Bachelor's degree
+Graphic Designers,0.082,54680,217810,Bachelor's degree
+Fitness Trainers and Aerobics Instructors,0.085,44580,308470,High school diploma or equivalent
+Electrical Power-Line Installers and Repairers,0.097,70240,114800,High school diploma or equivalent
+Police and Sheriff's Patrol Officers,0.098,65400,661330,High school diploma or equivalent
+Chefs and Head Cooks,0.1,52160,128600,High school diploma or equivalent
+Radio and Television Announcers,0.1,51630,27780,Bachelor's degree
+Electrical Engineers,0.1,101600,186490,Bachelor's degree
+Chemists,0.1,83850,84560,Bachelor's degree
+Respiratory Therapy Technicians,0.1,51380,9090,Associate's degree
+Physicists,0.1,125280,17620,Doctoral or professional degree
+"Hairdressers, Hairstylists, and Cosmetologists",0.11,30190,377210,Postsecondary nondegree award
+Reporters and Correspondents,0.11,55530,37140,Bachelor's degree
+Air Traffic Controllers,0.11,120830,22390,Associate's degree
+Nuclear Medicine Technologists,0.13,78870,18810,Associate's degree
+"Software Developers, Systems Software",0.13,114000,405330,Bachelor's degree
+Dietetic Technicians,0.13,30130,33540,Associate's degree
+Social and Human Service Assistants,0.13,35830,392300,High school diploma or equivalent
+Sound Engineering Technicians,0.13,63500,13510,Postsecondary nondegree award
+Occupational Health and Safety Specialists,0.17,74940,88390,Bachelor's degree
+Commercial Divers,0.18,59470,3380,Postsecondary nondegree award
+Manufactured Building and Mobile Home Installers,0.18,32910,2920,High school diploma or equivalent
+Epidemiologists,0.2,75690,7060,Master's degree
+Concierges,0.21,33550,37490,High school diploma or equivalent
+"Computer Occupations, All Other",0.22,93350,381380,Bachelor's degree
+"Business Operations Specialists, All Other",0.23,76960,1060580,Bachelor's degree
+Financial Analysts,0.23,100990,306200,Bachelor's degree
+Cardiovascular Technologists and Technicians,0.23,58730,56560,Associate's degree
+"Engineering Technicians, Except Drafters, All Other",0.24,65720,83360,Associate's degree
+Geographers,0.25,80530,1390,Bachelor's degree
+Occupational Health and Safety Technicians,0.25,55270,18020,High school diploma or equivalent
+Probation Officers and Correctional Treatment Specialists,0.25,58790,87660,Bachelor's degree
+Environmental Engineering Technicians,0.25,54800,17310,Associate's degree
+"Managers, All Other",0.25,115590,462840,Bachelor's degree
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.25,91830,312980,Bachelor's degree
+"Captains, Mates, and Pilots of Water Vessels",0.27,82380,36390,Postsecondary nondegree award
+Occupational Therapy Aides,0.27,32580,7700,High school diploma or equivalent
+Medical Equipment Repairers,0.27,52710,46320,Associate's degree
+First-Line Supervisors of Retail Sales Workers,0.28,45080,1181530,High school diploma or equivalent
+Skincare Specialists,0.29,36350,50740,Postsecondary nondegree award
+Medical Assistants,0.3,34540,673660,Postsecondary nondegree award
+Zoologists and Wildlife Biologists,0.3,67760,17860,Bachelor's degree
+"Cooks, Private Household",0.3,41240,460,Postsecondary nondegree award
+Film and Video Editors,0.31,86830,28160,Bachelor's degree
+"Financial Specialists, All Other",0.33,77580,128760,Bachelor's degree
+Surgical Technologists,0.34,49040,110160,Postsecondary nondegree award
+Radiation Therapists,0.34,86730,18260,Associate's degree
+"Plumbers, Pipefitters, and Steamfitters",0.35,58150,438070,High school diploma or equivalent
+Diagnostic Medical Sonographers,0.35,73860,71130,Associate's degree
+Bailiffs,0.36,49870,18900,High school diploma or equivalent
+"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",0.36,56300,23770,Postsecondary nondegree award
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",0.36,57080,229890,Postsecondary nondegree award
+Cleaners of Vehicles and Equipment,0.37,26900,378850,No formal educational credential
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",0.38,80040,22980,Postsecondary nondegree award
+Surveyors,0.38,66440,45310,Bachelor's degree
+Mechanical Engineering Technicians,0.38,58240,41460,Associate's degree
+"Packers and Packagers, Hand",0.38,26490,663970,No formal educational credential
+Interpreters and Translators,0.38,55230,57140,Bachelor's degree
+Home Health Aides,0.39,25330,797670,High school diploma or equivalent
+Upholsterers,0.39,35920,32870,High school diploma or equivalent
+"Judges, Magistrate Judges, and Magistrates",0.4,121130,28520,Doctoral or professional degree
+"Mobile Heavy Equipment Mechanics, Except Engines",0.4,53370,140260,High school diploma or equivalent
+"Health Technologists and Technicians, All Other",0.4,47450,125270,Postsecondary nondegree award
+Judicial Law Clerks,0.41,59540,16350,Doctoral or professional degree
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment",0.41,59210,59520,Postsecondary nondegree award
+Forest and Conservation Technicians,0.42,40110,30220,Associate's degree
+"Locker Room, Coatroom, and Dressing Room Attendants",0.43,26720,17610,High school diploma or equivalent
+"Physical Scientists, All Other",0.43,110090,17380,Bachelor's degree
+Historians,0.44,66380,3040,Master's degree
+Medical Appliance Technicians,0.45,42180,14670,High school diploma or equivalent
+Psychiatric Aides,0.47,31090,56910,High school diploma or equivalent
+Fire Inspectors and Investigators,0.48,64140,12530,Postsecondary nondegree award
+Aerospace Engineering and Operations Technicians,0.48,68970,10110,Associate's degree
+Merchandise Displayers and Window Trimmers,0.48,31850,128960,High school diploma or equivalent
+Computer Programmers,0.48,89580,230470,Bachelor's degree
+Crossing Guards,0.49,31970,79880,No formal educational credential
+Telecommunications Line Installers and Repairers,0.49,59000,118200,High school diploma or equivalent
+"Police, Fire, and Ambulance Dispatchers",0.49,43290,95020,High school diploma or equivalent
+"Loading Machine Operators, Underground Mining",0.5,51450,2500,No formal educational credential
+"Installation, Maintenance, and Repair Workers, All Other",0.5,43050,157030,High school diploma or equivalent
+Court Reporters,0.5,62390,14490,Postsecondary nondegree award
+Demonstrators and Product Promoters,0.51,33260,81250,No formal educational credential
+Dental Assistants,0.51,39770,341060,Postsecondary nondegree award
+Shoe and Leather Workers and Repairers,0.52,29800,8640,High school diploma or equivalent
+Architectural and Civil Drafters,0.52,56700,97610,Associate's degree
+"Rotary Drill Operators, Oil and Gas",0.53,56740,18010,No formal educational credential
+Continuous Mining Machine Operators,0.54,54470,14710,No formal educational credential
+Automotive Glass Installers and Repairers,0.55,36370,19640,High school diploma or equivalent
+Audio and Video Equipment Technicians,0.55,48940,75940,Postsecondary nondegree award
+Transit and Railroad Police,0.57,74450,4470,High school diploma or equivalent
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",0.57,51280,101390,High school diploma or equivalent
+Personal Financial Advisors,0.58,121770,200260,Bachelor's degree
+Millwrights,0.59,56250,43810,High school diploma or equivalent
+Museum Technicians and Conservators,0.59,46870,13100,Bachelor's degree
+Mine Cutting and Channeling Machine Operators,0.59,49080,4920,High school diploma or equivalent
+Recreational Vehicle Service Technicians,0.59,40090,15560,High school diploma or equivalent
+Automotive Service Technicians and Mechanics,0.59,43730,648050,Postsecondary nondegree award
+Correctional Officers and Jailers,0.6,49300,415000,High school diploma or equivalent
+"Camera Operators, Television, Video, and Motion Picture",0.6,61750,21080,Bachelor's degree
+Slaughterers and Meat Packers,0.6,28450,75550,No formal educational credential
+"Electronic Equipment Installers and Repairers, Motor Vehicles",0.61,36750,10880,High school diploma or equivalent
+Physical Therapist Aides,0.61,28500,47260,High school diploma or equivalent
+Costume Attendants,0.61,46010,6460,High school diploma or equivalent
+"Life, Physical, and Social Science Technicians, All Other",0.61,52940,65220,Associate's degree
+Food Cooking Machine Operators and Tenders,0.61,31690,32260,High school diploma or equivalent
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",0.61,39160,35080,High school diploma or equivalent
+Motorboat Operators,0.62,50350,2510,Postsecondary nondegree award
+Tapers,0.62,57340,18320,No formal educational credential
+Pipelayers,0.62,43500,38070,No formal educational credential
+"Geoscientists, Except Hydrologists and Geographers",0.63,107800,29260,Bachelor's degree
+"Control and Valve Installers and Repairers, Except Mechanical Door",0.63,57890,51730,High school diploma or equivalent
+"Healthcare Support Workers, All Other",0.63,39110,88990,High school diploma or equivalent
+First-Line Supervisors of Food Preparation and Serving Workers,0.63,36190,964400,High school diploma or equivalent
+"Cutters and Trimmers, Hand",0.64,31600,10580,No formal educational credential
+"Administrative Law Judges, Adjudicators, and Hearing Officers",0.64,101210,14280,Doctoral or professional degree
+Power Distributors and Dispatchers,0.64,85340,11620,High school diploma or equivalent
+"Insulation Workers, Mechanical",0.64,53180,24610,High school diploma or equivalent
+Electronic Home Entertainment Equipment Installers and Repairers,0.65,39800,26070,Postsecondary nondegree award
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",0.66,28950,2156270,No formal educational credential
+Motorboat Mechanics and Service Technicians,0.66,42330,22280,High school diploma or equivalent
+"Paper Goods Machine Setters, Operators, and Tenders",0.67,40320,97960,High school diploma or equivalent
+Foundry Mold and Coremakers,0.67,36820,15600,High school diploma or equivalent
+"Bus Drivers, Transit and Intercity",0.67,44650,174110,High school diploma or equivalent
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",0.67,24420,144370,No formal educational credential
+Industrial Machinery Mechanics,0.67,54000,362440,High school diploma or equivalent
+Postal Service Mail Carriers,0.68,51780,342410,High school diploma or equivalent
+Mechanical Drafters,0.68,59010,56170,Associate's degree
+Light Truck or Delivery Services Drivers,0.69,36920,915310,High school diploma or equivalent
+Maids and Housekeeping Cleaners,0.69,25570,924290,No formal educational credential
+"Painters, Transportation Equipment",0.69,46460,55710,High school diploma or equivalent
+Tire Repairers and Changers,0.7,29530,111620,High school diploma or equivalent
+Food Batchmakers,0.7,32090,160160,High school diploma or equivalent
+Avionics Technicians,0.7,65330,18860,Associate's degree
+Airfield Operations Specialists,0.71,56760,9960,High school diploma or equivalent
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers",0.71,70630,38930,High school diploma or equivalent
+Amusement and Recreation Attendants,0.72,23460,319890,No formal educational credential
+Pharmacy Aides,0.72,29190,36970,High school diploma or equivalent
+Public Address System and Other Announcers,0.72,39040,7480,High school diploma or equivalent
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",0.73,30470,21190,High school diploma or equivalent
+"Coil Winders, Tapers, and Finishers",0.73,36610,12190,High school diploma or equivalent
+Broadcast Technicians,0.74,46770,31580,Associate's degree
+Tile and Marble Setters,0.75,45950,39130,No formal educational credential
+"Painters, Construction and Maintenance",0.75,43050,228420,No formal educational credential
+Civil Engineering Technicians,0.75,54670,71150,Associate's degree
+Farm Equipment Mechanics and Service Technicians,0.75,42190,34300,High school diploma or equivalent
+Archivists,0.76,56400,6370,Master's degree
+Chemical Equipment Operators and Tenders,0.76,51070,82880,High school diploma or equivalent
+"Electric Motor, Power Tool, and Related Repairers",0.76,45770,15800,High school diploma or equivalent
+Fallers,0.76,48520,4680,High school diploma or equivalent
+"Environmental Science and Protection Technicians, Including Health",0.77,50350,32600,Associate's degree
+Locksmiths and Safe Repairers,0.77,43740,16970,High school diploma or equivalent
+Tree Trimmers and Pruners,0.77,40510,42440,High school diploma or equivalent
+Medical Equipment Preparers,0.78,37990,55610,High school diploma or equivalent
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",0.78,36180,186640,High school diploma or equivalent
+Gas Plant Operators,0.78,71470,14620,High school diploma or equivalent
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",0.79,51250,103830,High school diploma or equivalent
+Heavy and Tractor-Trailer Truck Drivers,0.79,45570,1800330,Postsecondary nondegree award
+Shampooers,0.79,22160,13720,No formal educational credential
+Drywall and Ceiling Tile Installers,0.79,49170,101900,No formal educational credential
+Motorcycle Mechanics,0.79,39260,15090,Postsecondary nondegree award
+Logging Equipment Operators,0.79,41840,25730,High school diploma or equivalent
+"Floor Layers, Except Carpet, Wood, and Hard Tiles",0.79,46760,14050,No formal educational credential
+Barbers,0.8,33220,20130,Postsecondary nondegree award
+"Derrick Operators, Oil and Gas",0.8,47630,11310,No formal educational credential
+"Cooks, Fast Food",0.81,22650,487510,No formal educational credential
+Word Processors and Typists,0.81,41160,53130,High school diploma or equivalent
+Electrical and Electronics Drafters,0.81,64400,24900,Associate's degree
+Electro-Mechanical Technicians,0.81,60240,13520,Associate's degree
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0.81,33090,17630,High school diploma or equivalent
+Medical Secretaries,0.81,37090,585410,High school diploma or equivalent
+Security and Fire Alarm Systems Installers,0.82,48540,70900,High school diploma or equivalent
+"Refractory Materials Repairers, Except Brickmasons",0.82,52510,1120,High school diploma or equivalent
+Pile-Driver Operators,0.82,64360,3450,High school diploma or equivalent
+Brickmasons and Blockmasons,0.82,54430,63930,High school diploma or equivalent
+"Cooks, Institution and Cafeteria",0.83,28290,400320,No formal educational credential
+"Mixing and Blending Machine Setters, Operators, and Tenders",0.83,39360,128600,High school diploma or equivalent
+"Insulation Workers, Floor, Ceiling, and Wall",0.83,42070,31840,No formal educational credential
+Printing Press Operators,0.83,38470,173470,High school diploma or equivalent
+Baggage Porters and Bellhops,0.83,26990,42350,High school diploma or equivalent
+Gaming Change Persons and Booth Cashiers,0.83,27220,22020,No formal educational credential
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0.83,40790,26700,High school diploma or equivalent
+"Paving, Surfacing, and Tamping Equipment Operators",0.83,44360,46760,High school diploma or equivalent
+Electrical and Electronics Engineering Technicians,0.84,65050,126950,Associate's degree
+"Layout Workers, Metal and Plastic",0.84,47380,8170,High school diploma or equivalent
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.84,41090,29510,High school diploma or equivalent
+Security Guards,0.84,32050,1114380,High school diploma or equivalent
+"Tailors, Dressmakers, and Custom Sewers",0.84,34330,21150,No formal educational credential
+Wellhead Pumpers,0.84,53870,13280,High school diploma or equivalent
+"Laborers and Freight, Stock, and Material Movers, Hand",0.85,30890,2893180,No formal educational credential
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",0.85,69480,1350180,High school diploma or equivalent
+Power Plant Operators,0.85,78030,33920,High school diploma or equivalent
+Chemical Plant and System Operators,0.85,61570,28190,High school diploma or equivalent
+Executive Secretaries and Executive Administrative Assistants,0.86,61550,570530,High school diploma or equivalent
+"Plant and System Operators, All Other",0.86,58300,12270,High school diploma or equivalent
+"Sawing Machine Setters, Operators, and Tenders, Wood",0.86,31200,52260,High school diploma or equivalent
+Veterinary Assistants and Laboratory Animal Caretakers,0.86,28690,89480,High school diploma or equivalent
+"Cutting and Slicing Machine Setters, Operators, and Tenders",0.86,35700,60840,High school diploma or equivalent
+Real Estate Sales Agents,0.86,61720,156760,High school diploma or equivalent
+"Computer-Controlled Machine Tool Operators, Metal and Plastic",0.86,41960,148150,High school diploma or equivalent
+"Maintenance Workers, Machinery",0.86,48720,80270,High school diploma or equivalent
+"Pourers and Casters, Metal",0.87,39670,7850,High school diploma or equivalent
+Carpet Installers,0.87,44550,26100,No formal educational credential
+Paperhangers,0.87,40840,2780,No formal educational credential
+Floor Sanders and Finishers,0.87,39890,4460,No formal educational credential
+Cartographers and Photogrammetrists,0.88,68340,11050,Bachelor's degree
+Metal-Refining Furnace Operators and Tenders,0.88,41810,17670,High school diploma or equivalent
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0.88,44140,49770,High school diploma or equivalent
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",0.88,35500,18130,High school diploma or equivalent
+Terrazzo Workers and Finishers,0.88,47230,2730,High school diploma or equivalent
+"Tool Grinders, Filers, and Sharpeners",0.88,40890,7070,High school diploma or equivalent
+Rail Car Repairers,0.88,56020,24720,High school diploma or equivalent
+Medical Transcriptionists,0.89,36350,53730,Postsecondary nondegree award
+Stonemasons,0.89,44370,12310,High school diploma or equivalent
+"Bus Drivers, School or Special Client",0.89,33390,504150,High school diploma or equivalent
+Technical Writers,0.89,75500,50350,Bachelor's degree
+Riggers,0.89,51330,20970,High school diploma or equivalent
+"Patternmakers, Metal and Plastic",0.9,47130,2880,High school diploma or equivalent
+"Molders, Shapers, and Casters, Except Metal and Plastic",0.9,35190,42500,High school diploma or equivalent
+"Pump Operators, Except Wellhead Pumpers",0.9,47510,10820,High school diploma or equivalent
+Signal and Track Switch Repairers,0.9,67800,7730,High school diploma or equivalent
+Gaming and Sports Book Writers and Runners,0.91,27640,11150,High school diploma or equivalent
+Musical Instrument Repairers and Tuners,0.91,39110,8450,High school diploma or equivalent
+Mechanical Door Repairers,0.91,43350,22670,High school diploma or equivalent
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",0.91,32730,21060,No formal educational credential
+Gas Compressor and Gas Pumping Station Operators,0.91,62900,3460,High school diploma or equivalent
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",0.91,36510,88560,High school diploma or equivalent
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",0.91,54640,5690,High school diploma or equivalent
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",0.91,61460,11680,Postsecondary nondegree award
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",0.91,39050,19690,High school diploma or equivalent
+Automotive Body and Related Repairers,0.91,46460,142060,High school diploma or equivalent
+"Patternmakers, Wood",0.91,59650,530,High school diploma or equivalent
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0.91,36620,75610,High school diploma or equivalent
+Pharmacy Technicians,0.92,34020,417860,High school diploma or equivalent
+Dredge Operators,0.92,47500,1190,High school diploma or equivalent
+"Painting, Coating, and Decorating Workers",0.92,33960,12200,No formal educational credential
+"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",0.92,34830,40070,High school diploma or equivalent
+"Combined Food Preparation and Serving Workers, Including Fast Food",0.92,22140,3676180,No formal educational credential
+"Production Workers, All Other",0.92,34490,230760,High school diploma or equivalent
+Cooling and Freezing Equipment Operators and Tenders,0.93,34520,8820,High school diploma or equivalent
+Fiberglass Laminators and Fabricators,0.93,36170,21190,High school diploma or equivalent
+"Service Unit Operators, Oil, Gas, and Mining",0.93,52780,49710,No formal educational credential
+Outdoor Power Equipment and Other Small Engine Mechanics,0.93,36940,31760,High school diploma or equivalent
+Locomotive Firers,0.93,69030,560,High school diploma or equivalent
+Machine Feeders and Offbearers,0.93,31710,66380,No formal educational credential
+"Model Makers, Metal and Plastic",0.93,56920,5210,High school diploma or equivalent
+Butchers and Meat Cutters,0.93,33210,133670,No formal educational credential
+"Tax Examiners and Collectors, and Revenue Agents",0.93,60500,54550,Bachelor's degree
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0.93,40770,18330,High school diploma or equivalent
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.94,41490,11400,High school diploma or equivalent
+"Meat, Poultry, and Fish Cutters and Trimmers",0.94,27790,156440,No formal educational credential
+Cement Masons and Concrete Finishers,0.94,47350,186400,No formal educational credential
+Bicycle Repairers,0.94,30290,12200,High school diploma or equivalent
+"Coin, Vending, and Amusement Machine Servicers and Repairers",0.94,36390,32920,High school diploma or equivalent
+"Welders, Cutters, Solderers, and Brazers",0.94,44360,389190,High school diploma or equivalent
+"Cooks, Short Order",0.94,25140,155840,No formal educational credential
+Excavating and Loading Machine and Dragline Operators,0.94,48680,46090,High school diploma or equivalent
+Tire Builders,0.94,45530,23920,High school diploma or equivalent
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",0.94,34120,9430,No formal educational credential
+First-Line Supervisors of Housekeeping and Janitorial Workers,0.94,43150,154180,High school diploma or equivalent
+Manicurists and Pedicurists,0.95,25860,110170,Postsecondary nondegree award
+"Textile Cutting Machine Setters, Operators, and Tenders",0.95,29440,13310,High school diploma or equivalent
+Nuclear Power Reactor Operators,0.95,95310,6280,High school diploma or equivalent
+Gaming Surveillance Officers and Gaming Investigators,0.95,36200,10230,High school diploma or equivalent
+Operating Engineers and Other Construction Equipment Operators,0.95,53030,383480,High school diploma or equivalent
+Print Binding and Finishing Workers,0.95,34850,45690,High school diploma or equivalent
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",0.95,33950,164110,High school diploma or equivalent
+Adhesive Bonding Machine Operators and Tenders,0.95,35850,16310,High school diploma or equivalent
+Landscaping and Groundskeeping Workers,0.95,30940,913480,No formal educational credential
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.95,36690,71870,High school diploma or equivalent
+Postal Service Clerks,0.95,50860,78830,High school diploma or equivalent
+"Dispatchers, Except Police, Fire, and Ambulance",0.96,42940,199880,High school diploma or equivalent
+"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",0.96,23240,473860,No formal educational credential
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.96,38030,2165310,High school diploma or equivalent
+"Model Makers, Wood",0.96,52590,740,High school diploma or equivalent
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",0.96,29660,31650,High school diploma or equivalent
+Locomotive Engineers,0.96,66920,34850,High school diploma or equivalent
+Gaming Dealers,0.96,23070,92530,High school diploma or equivalent
+"Fabric Menders, Except Garment",0.96,33550,400,High school diploma or equivalent
+"Cooks, Restaurant",0.96,27580,1340810,No formal educational credential
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",0.97,31110,78980,High school diploma or equivalent
+Shoe Machine Operators and Tenders,0.97,30110,3810,High school diploma or equivalent
+Farm Labor Contractors,0.97,52930,200,No formal educational credential
+Textile Bleaching and Dyeing Machine Operators and Tenders,0.97,29930,9330,High school diploma or equivalent
+Dental Laboratory Technicians,0.97,43180,34480,High school diploma or equivalent
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0.97,38060,31890,High school diploma or equivalent
+"Grinding and Polishing Workers, Hand",0.97,31900,30280,No formal educational credential
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",0.97,38210,24500,High school diploma or equivalent
+Log Graders and Scalers,0.97,39060,3330,High school diploma or equivalent
+Ophthalmic Laboratory Technicians,0.97,34490,27960,High school diploma or equivalent
+Camera and Photographic Equipment Repairers,0.97,42540,3690,High school diploma or equivalent
+Prepress Technicians and Workers,0.97,42240,29990,Postsecondary nondegree award
+Counter and Rental Clerks,0.97,31200,426700,No formal educational credential
+Real Estate Brokers,0.97,78940,40320,High school diploma or equivalent
+Models,0.98,31570,3310,No formal educational credential
+Legal Secretaries,0.98,50040,176880,High school diploma or equivalent
+Radio Operators,0.98,44710,870,High school diploma or equivalent
+Driver/Sales Workers,0.98,29610,414860,High school diploma or equivalent
+"Claims Adjusters, Examiners, and Investigators",0.98,67540,287730,High school diploma or equivalent
+Parts Salespersons,0.98,34080,254870,No formal educational credential
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",0.98,44490,19440,High school diploma or equivalent
+Etchers and Engravers,0.98,34550,8600,High school diploma or equivalent
+"Insurance Appraisers, Auto Damage",0.98,65510,15200,Postsecondary nondegree award
+Loan Officers,0.98,76270,304950,Bachelor's degree
+Timing Device Assemblers and Adjusters,0.98,37460,780,High school diploma or equivalent
+Data Entry Keyers,0.99,33740,174930,High school diploma or equivalent
+Tax Preparers,0.99,46860,68090,High school diploma or equivalent
+Watch Repairers,0.99,44830,2610,High school diploma or equivalent
+Insurance Underwriters,0.99,76880,96040,Bachelor's degree
+"Sewers, Hand",0.99,29510,5350,No formal educational credential
+"Title Examiners, Abstractors, and Searchers",0.99,51380,52180,High school diploma or equivalent
