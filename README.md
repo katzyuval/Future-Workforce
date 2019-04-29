@@ -1,5 +1,6 @@
 # Future-Workforce
-The final project contains serval of external data that marged together
+The final project contains serval of external data that marged together:
+
 Educational attainment for workers 25 years and older by detailed occupation.xlsx	
 The original data from: U.S. Bureau of Labor Statistics Latest Numbers
 THE FUTURE OF EMPLOYMENT.csv	- The original data from:
