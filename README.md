@@ -13,4 +13,4 @@ The original data from: U.S. Bureau of Labor Statistics Latest Numbers - Occupat
 national_M2018_dl.xlsx  The original data from:
 The original data from: U.S. Bureau of Labor Statistics Latest Numbers - Occupational Employment Statistics
 
-FULL DATA.csv - final marged all data
+FULL DATA2.csv - final marged all data (After Clean - 539 relevant cells)
